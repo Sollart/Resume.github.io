@@ -1,2 +1,1 @@
-# Resume.github.io
-My resume 
+permalink: /home.html
