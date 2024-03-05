@@ -6,34 +6,34 @@
 }
 
 @keyframes html-progress {
-  to { --progress-value: 90; }
+  to { --progress-value: 60; }
 }
 
 @keyframes css-progress {
-  to { --progress-value: 70; }
+  to { --progress-value: 50; }
 }
 
 @keyframes java-progress {
-  to { --progress-value: 60; }
+  to { --progress-value: 30; }
 }
 
 @keyframes python-progress {
-  to { --progress-value: 65; }
+  to { --progress-value: 40; }
 }
 
 @keyframes plus-progress {
-  to { --progress-value: 50; }
+  to { --progress-value: 40; }
 }
 @keyframes sharp-progress {
-  to { --progress-value: 50; }
+  to { --progress-value: 35; }
 }
 
 @keyframes onec-progress {
-  to { --progress-value: 50; }
+  to { --progress-value: 30; }
 }
 
 @keyframes sql-progress {
-  to { --progress-value: 60; }
+  to { --progress-value: 40; }
 }
 
 .progress-bar {
